@@ -4,7 +4,7 @@ This is my first completed homework task for the UoB's Coding Bootcamp, refactor
 ## About the project
 I have been provided with an existing html and css document which I need to refactor in order to make it accessible for those with disabilities using assisitive technologies to view websites. The page provided is a single, static homepage for a digital marketing agency *(see screenshot below)*.
 
-INCLUDE IMAGE
+![alt text](https://github.com/HannahSones/01Homework-CodeRefactor/blob/master/Horiseon%20webpage%20complete.png)
 
 ### Built using
 * HTML
