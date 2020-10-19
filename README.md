@@ -30,7 +30,7 @@ Here is a list of the changes I made to the code to make it more accessible inli
 
 ## Link to deployed application
 
-https://hannahsones.github.io/01Homework-CodeRefactor/
+https://hannahsones.github.io/CodeRefactor/
 
 -------------
 © Hannah Sones. All rights reserved.
